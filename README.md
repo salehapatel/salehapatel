@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**salehapatel/salehapatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🎓 Rising Junior at UT Austin, studying Computer Science
 - 🔍 Interests: Cybersecurity & Consulting
 - 💻 Interning with Verizon through Break Through Tech
