@@ -7,5 +7,5 @@
 - 📚 Projects: Coming soon....
 - 🌎 Languages: Java, Python
 - 🤳🏻 How to reach me:
-  📫 salehapatel2@utexas.edu
-  🔗 https://www.linkedin.com/in/salehapatell/
+-📫 salehapatel2@utexas.edu
+- 🔗 https://www.linkedin.com/in/salehapatell/
