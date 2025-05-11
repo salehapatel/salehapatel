@@ -7,4 +7,4 @@
 - 🌎 Languages: Java, Python
 - 🤳🏻 How to reach me:
 -  📫 salehapatel2@utexas.edu
-- 🔗 LinkedIn: https://www.linkedin.com/in/salehapatell/
+- 🔗 https://www.linkedin.com/in/salehapatell/
